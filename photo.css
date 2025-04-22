@@ -1,0 +1,18 @@
+#footer{
+    background-color: ghostwhite;
+    padding:8px;
+    margin-top: 32px;
+    text-align: center;
+}
+#footer-links{
+    list-style: none;
+    text-align: center;
+}
+#footer-links li{
+    display:flexbox ;
+    display: inline;
+    margin: 0 16px;
+}
+h1{
+
+}
